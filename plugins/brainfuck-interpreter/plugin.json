@@ -1,0 +1,9 @@
+{
+    "name": "Brainfuck Interpreter",
+    "author": "Hotlands Software",
+    "description": "A basic Brainfuck Interpreter for NotepadPy++",
+    "files": [
+        "bf.py"
+    ],
+    "version": "1.0.0"
+}
